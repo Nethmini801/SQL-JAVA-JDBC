@@ -1,7 +1,7 @@
 # SQL-JAVA-JDBC
 Java app utilizing Visual Studio Code, with Create and Prepared Statements. 6 classes enable effortless data insertion, deletion, updating &amp; reviewing in the database. GitHub repository showcasing efficient DB operations.
 
-#JDBC (JAVA DATABASE CONNECTIVITY)
+# JDBC (JAVA DATABASE CONNECTIVITY)
 
 This means the method of how we connect our database with our Java application.  Here, I have used Java with a MySQL database. 
 You can use any other database if you want, but when it comes to the process of making the connection it will be slightly a bit different from this method.
@@ -13,7 +13,7 @@ Link : https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 After downloading this file, you have to insert it into the lib folder in  your Java app.
 
-#Create statements and Prepared Statements 
+# Create statements and Prepared Statements 
 
 1. **Prepared Statements in SQL JDBC:**
    Prepared statements in SQL JDBC are a feature used to execute parameterized queries. They are precompiled SQL statements that can be reused with different parameters. The SQL code is sent to the database server only once during the preparation phase, and subsequent executions with different parameters reuse the compiled statement. Prepared statements offer several advantages in the SQL JDBC context:
