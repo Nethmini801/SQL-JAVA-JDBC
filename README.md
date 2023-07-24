@@ -40,3 +40,7 @@ After downloading this file, you have to insert it into the lib folder in  your 
    Database administrators use CREATE statements to manage and modify the database schema and its objects.
 
 In summary, prepared statements in SQL JDBC are beneficial for executing parameterized queries, offering performance improvements and protection against SQL injection. On the other hand, CREATE statements are used for database setup, schema management, and creating database objects. Both prepared statements and CREATE statements play important roles in developing and maintaining applications using SQL JDBC, but they serve different purposes and cannot be directly compared as being "better" than each other.
+
+if you want to learn more about JDBC, use below link  -
+
+https://www.youtube.com/watch?v=y_YxwyYRJek&list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI
